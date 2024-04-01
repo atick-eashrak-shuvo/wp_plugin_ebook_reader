@@ -2,7 +2,7 @@
 /**
  * Plugin Name: AES Plugin
  * Description: Changes the Downloadable products setting File download method to Redirect only (Insecure) in WooCommerce.
- * Version: 1.0
+ * Version: 1.0.2
  * Author: Atick Eashrak Shuvo
  */
 
